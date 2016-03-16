@@ -1,0 +1,8 @@
+C:\github\CSharpe-basic-experiments\linq\StringDeserializationWebJobTerm\bin\Debug\StringDeserializationWebJobTerm.exe.config
+C:\github\CSharpe-basic-experiments\linq\StringDeserializationWebJobTerm\bin\Debug\StringDeserializationWebJobTerm.exe
+C:\github\CSharpe-basic-experiments\linq\StringDeserializationWebJobTerm\bin\Debug\StringDeserializationWebJobTerm.pdb
+C:\github\CSharpe-basic-experiments\linq\StringDeserializationWebJobTerm\bin\Debug\Newtonsoft.Json.dll
+C:\github\CSharpe-basic-experiments\linq\StringDeserializationWebJobTerm\bin\Debug\Newtonsoft.Json.xml
+C:\github\CSharpe-basic-experiments\linq\StringDeserializationWebJobTerm\obj\Debug\StringDeserializationWebJobTerm.csprojResolveAssemblyReference.cache
+C:\github\CSharpe-basic-experiments\linq\StringDeserializationWebJobTerm\obj\Debug\StringDeserializationWebJobTerm.exe
+C:\github\CSharpe-basic-experiments\linq\StringDeserializationWebJobTerm\obj\Debug\StringDeserializationWebJobTerm.pdb

@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dictionary", "Dictionary\Di
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListOfObject", "ListOfObject\ListOfObject.csproj", "{DD40C2D2-2144-4EAB-A7DB-DD94C75EEB12}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringDeserializationWebJobTerm", "StringDeserializationWebJobTerm\StringDeserializationWebJobTerm.csproj", "{991B17EE-9C1E-4243-8C84-EC35D747B99B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{DD40C2D2-2144-4EAB-A7DB-DD94C75EEB12}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DD40C2D2-2144-4EAB-A7DB-DD94C75EEB12}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DD40C2D2-2144-4EAB-A7DB-DD94C75EEB12}.Release|Any CPU.Build.0 = Release|Any CPU
+		{991B17EE-9C1E-4243-8C84-EC35D747B99B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{991B17EE-9C1E-4243-8C84-EC35D747B99B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{991B17EE-9C1E-4243-8C84-EC35D747B99B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{991B17EE-9C1E-4243-8C84-EC35D747B99B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
