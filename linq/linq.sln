@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "linq", "linq\linq.csproj", "{3263503C-44C0-4EE7-B571-7204475C6D06}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dictionary", "Dictionary\Dictionary.csproj", "{733C0418-37C9-49C0-B002-57510B7133C6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListOfObject", "ListOfObject\ListOfObject.csproj", "{DD40C2D2-2144-4EAB-A7DB-DD94C75EEB12}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3263503C-44C0-4EE7-B571-7204475C6D06}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3263503C-44C0-4EE7-B571-7204475C6D06}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3263503C-44C0-4EE7-B571-7204475C6D06}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3263503C-44C0-4EE7-B571-7204475C6D06}.Release|Any CPU.Build.0 = Release|Any CPU
+		{733C0418-37C9-49C0-B002-57510B7133C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{733C0418-37C9-49C0-B002-57510B7133C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{733C0418-37C9-49C0-B002-57510B7133C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{733C0418-37C9-49C0-B002-57510B7133C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DD40C2D2-2144-4EAB-A7DB-DD94C75EEB12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD40C2D2-2144-4EAB-A7DB-DD94C75EEB12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD40C2D2-2144-4EAB-A7DB-DD94C75EEB12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD40C2D2-2144-4EAB-A7DB-DD94C75EEB12}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

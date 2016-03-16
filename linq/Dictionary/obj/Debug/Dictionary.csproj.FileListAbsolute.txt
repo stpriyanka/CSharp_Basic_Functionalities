@@ -1,0 +1,6 @@
+C:\Users\Worldfavor2\Documents\Visual Studio 2013\Projects\linq\Dictionary\bin\Debug\Dictionary.exe.config
+C:\Users\Worldfavor2\Documents\Visual Studio 2013\Projects\linq\Dictionary\bin\Debug\Dictionary.exe
+C:\Users\Worldfavor2\Documents\Visual Studio 2013\Projects\linq\Dictionary\bin\Debug\Dictionary.pdb
+C:\Users\Worldfavor2\Documents\Visual Studio 2013\Projects\linq\Dictionary\obj\Debug\Dictionary.csprojResolveAssemblyReference.cache
+C:\Users\Worldfavor2\Documents\Visual Studio 2013\Projects\linq\Dictionary\obj\Debug\Dictionary.exe
+C:\Users\Worldfavor2\Documents\Visual Studio 2013\Projects\linq\Dictionary\obj\Debug\Dictionary.pdb
