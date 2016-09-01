@@ -1,0 +1,8 @@
+C:\git_repo\c#-Basic-Experiments\linq\AccessArrayOBj\bin\Debug\AccessArrayOBj.exe.config
+C:\git_repo\c#-Basic-Experiments\linq\AccessArrayOBj\bin\Debug\AccessArrayOBj.exe
+C:\git_repo\c#-Basic-Experiments\linq\AccessArrayOBj\bin\Debug\AccessArrayOBj.pdb
+C:\git_repo\c#-Basic-Experiments\linq\AccessArrayOBj\bin\Debug\Newtonsoft.Json.dll
+C:\git_repo\c#-Basic-Experiments\linq\AccessArrayOBj\bin\Debug\Newtonsoft.Json.xml
+C:\git_repo\c#-Basic-Experiments\linq\AccessArrayOBj\obj\Debug\AccessArrayOBj.exe
+C:\git_repo\c#-Basic-Experiments\linq\AccessArrayOBj\obj\Debug\AccessArrayOBj.pdb
+C:\git_repo\c#-Basic-Experiments\linq\AccessArrayOBj\obj\Debug\AccessArrayOBj.csprojResolveAssemblyReference.cache

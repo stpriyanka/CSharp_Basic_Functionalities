@@ -1,0 +1,8 @@
+C:\git_repo\c#-Basic-Experiments\linq\yield\bin\Debug\yield.exe.config
+C:\git_repo\c#-Basic-Experiments\linq\yield\bin\Debug\yield.exe
+C:\git_repo\c#-Basic-Experiments\linq\yield\bin\Debug\yield.pdb
+C:\git_repo\c#-Basic-Experiments\linq\yield\obj\Debug\yield.csprojResolveAssemblyReference.cache
+C:\git_repo\c#-Basic-Experiments\linq\yield\obj\Debug\yield.exe
+C:\git_repo\c#-Basic-Experiments\linq\yield\obj\Debug\yield.pdb
+C:\git_repo\c#-Basic-Experiments\linq\yield\bin\Debug\Newtonsoft.Json.dll
+C:\git_repo\c#-Basic-Experiments\linq\yield\bin\Debug\Newtonsoft.Json.xml

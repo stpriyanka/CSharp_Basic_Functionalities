@@ -1,0 +1,8 @@
+C:\git_repo\c#-Basic-Experiments\linq\Tuple-LinqSearch-Ienumerable\bin\Debug\Tuple-LinqSearch-Ienumerable.exe.config
+C:\git_repo\c#-Basic-Experiments\linq\Tuple-LinqSearch-Ienumerable\obj\Debug\Tuple-LinqSearch-Ienumerable.csprojResolveAssemblyReference.cache
+C:\git_repo\c#-Basic-Experiments\linq\Tuple-LinqSearch-Ienumerable\bin\Debug\Tuple-LinqSearch-Ienumerable.exe
+C:\git_repo\c#-Basic-Experiments\linq\Tuple-LinqSearch-Ienumerable\bin\Debug\Tuple-LinqSearch-Ienumerable.pdb
+C:\git_repo\c#-Basic-Experiments\linq\Tuple-LinqSearch-Ienumerable\obj\Debug\Tuple-LinqSearch-Ienumerable.exe
+C:\git_repo\c#-Basic-Experiments\linq\Tuple-LinqSearch-Ienumerable\obj\Debug\Tuple-LinqSearch-Ienumerable.pdb
+C:\git_repo\c#-Basic-Experiments\linq\Tuple-LinqSearch-Ienumerable\bin\Debug\Itenso.TimePeriod.dll
+C:\git_repo\c#-Basic-Experiments\linq\Tuple-LinqSearch-Ienumerable\bin\Debug\de\Itenso.TimePeriod.resources.dll

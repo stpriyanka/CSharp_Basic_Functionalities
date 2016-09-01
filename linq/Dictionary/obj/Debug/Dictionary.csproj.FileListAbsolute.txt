@@ -4,3 +4,9 @@ C:\Users\Worldfavor2\Documents\Visual Studio 2013\Projects\linq\Dictionary\bin\D
 C:\Users\Worldfavor2\Documents\Visual Studio 2013\Projects\linq\Dictionary\obj\Debug\Dictionary.csprojResolveAssemblyReference.cache
 C:\Users\Worldfavor2\Documents\Visual Studio 2013\Projects\linq\Dictionary\obj\Debug\Dictionary.exe
 C:\Users\Worldfavor2\Documents\Visual Studio 2013\Projects\linq\Dictionary\obj\Debug\Dictionary.pdb
+C:\git_repo\c#-Basic-Experiments\linq\Dictionary\bin\Debug\Dictionary.exe.config
+C:\git_repo\c#-Basic-Experiments\linq\Dictionary\bin\Debug\Dictionary.exe
+C:\git_repo\c#-Basic-Experiments\linq\Dictionary\bin\Debug\Dictionary.pdb
+C:\git_repo\c#-Basic-Experiments\linq\Dictionary\obj\Debug\Dictionary.csprojResolveAssemblyReference.cache
+C:\git_repo\c#-Basic-Experiments\linq\Dictionary\obj\Debug\Dictionary.exe
+C:\git_repo\c#-Basic-Experiments\linq\Dictionary\obj\Debug\Dictionary.pdb

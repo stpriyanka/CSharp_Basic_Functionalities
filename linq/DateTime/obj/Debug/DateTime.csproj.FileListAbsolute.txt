@@ -1,0 +1,8 @@
+C:\git_repo\c#-Basic-Experiments\linq\DateTime\obj\Debug\DateTime.csprojResolveAssemblyReference.cache
+C:\git_repo\c#-Basic-Experiments\linq\DateTime\bin\Debug\DateTime.exe.config
+C:\git_repo\c#-Basic-Experiments\linq\DateTime\bin\Debug\DateTime.exe
+C:\git_repo\c#-Basic-Experiments\linq\DateTime\bin\Debug\DateTime.pdb
+C:\git_repo\c#-Basic-Experiments\linq\DateTime\bin\Debug\Newtonsoft.Json.dll
+C:\git_repo\c#-Basic-Experiments\linq\DateTime\bin\Debug\Newtonsoft.Json.xml
+C:\git_repo\c#-Basic-Experiments\linq\DateTime\obj\Debug\DateTime.exe
+C:\git_repo\c#-Basic-Experiments\linq\DateTime\obj\Debug\DateTime.pdb

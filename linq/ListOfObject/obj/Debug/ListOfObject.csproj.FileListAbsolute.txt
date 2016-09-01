@@ -6,3 +6,11 @@ C:\Users\Worldfavor2\Documents\Visual Studio 2013\Projects\linq\ListOfObject\bin
 C:\Users\Worldfavor2\Documents\Visual Studio 2013\Projects\linq\ListOfObject\obj\Debug\ListOfObject.csprojResolveAssemblyReference.cache
 C:\Users\Worldfavor2\Documents\Visual Studio 2013\Projects\linq\ListOfObject\obj\Debug\ListOfObject.exe
 C:\Users\Worldfavor2\Documents\Visual Studio 2013\Projects\linq\ListOfObject\obj\Debug\ListOfObject.pdb
+C:\git_repo\c#-Basic-Experiments\linq\ListOfObject\bin\Debug\ListOfObject.exe.config
+C:\git_repo\c#-Basic-Experiments\linq\ListOfObject\obj\Debug\ListOfObject.exe
+C:\git_repo\c#-Basic-Experiments\linq\ListOfObject\obj\Debug\ListOfObject.pdb
+C:\git_repo\c#-Basic-Experiments\linq\ListOfObject\bin\Debug\ListOfObject.exe
+C:\git_repo\c#-Basic-Experiments\linq\ListOfObject\bin\Debug\ListOfObject.pdb
+C:\git_repo\c#-Basic-Experiments\linq\ListOfObject\bin\Debug\Newtonsoft.Json.dll
+C:\git_repo\c#-Basic-Experiments\linq\ListOfObject\bin\Debug\Newtonsoft.Json.xml
+C:\git_repo\c#-Basic-Experiments\linq\ListOfObject\obj\Debug\ListOfObject.csprojResolveAssemblyReference.cache

@@ -1,0 +1,9 @@
+C:\git_repo\c#-Basic-Experiments\linq\Mspec\bin\Debug\Mspec.dll.config
+C:\git_repo\c#-Basic-Experiments\linq\Mspec\bin\Debug\Mspec.dll
+C:\git_repo\c#-Basic-Experiments\linq\Mspec\bin\Debug\Mspec.pdb
+C:\git_repo\c#-Basic-Experiments\linq\Mspec\bin\Debug\Machine.Specifications.Clr4.dll
+C:\git_repo\c#-Basic-Experiments\linq\Mspec\bin\Debug\Machine.Specifications.dll
+C:\git_repo\c#-Basic-Experiments\linq\Mspec\bin\Debug\Machine.Specifications.Should.dll
+C:\git_repo\c#-Basic-Experiments\linq\Mspec\obj\Debug\Mspec.csprojResolveAssemblyReference.cache
+C:\git_repo\c#-Basic-Experiments\linq\Mspec\obj\Debug\Mspec.dll
+C:\git_repo\c#-Basic-Experiments\linq\Mspec\obj\Debug\Mspec.pdb

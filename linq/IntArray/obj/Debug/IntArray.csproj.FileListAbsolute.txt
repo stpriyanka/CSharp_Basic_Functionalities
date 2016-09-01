@@ -1,0 +1,7 @@
+C:\git_repo\c#-Basic-Experiments\linq\IntArray\bin\Debug\IntArray.exe.config
+C:\git_repo\c#-Basic-Experiments\linq\IntArray\bin\Debug\IntArray.exe
+C:\git_repo\c#-Basic-Experiments\linq\IntArray\bin\Debug\IntArray.pdb
+C:\git_repo\c#-Basic-Experiments\linq\IntArray\obj\Debug\IntArray.csprojResolveAssemblyReference.cache
+C:\git_repo\c#-Basic-Experiments\linq\IntArray\obj\Debug\IntArray.exe
+C:\git_repo\c#-Basic-Experiments\linq\IntArray\obj\Debug\IntArray.pdb
+C:\WINDOWS\system32\bin\Debug\IntArray.exe.config

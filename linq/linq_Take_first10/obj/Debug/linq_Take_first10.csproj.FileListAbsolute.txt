@@ -1,0 +1,6 @@
+C:\git_repo\c#-Basic-Experiments\linq\linq_Take_first10\bin\Debug\linq_Take_first10.exe.config
+C:\git_repo\c#-Basic-Experiments\linq\linq_Take_first10\bin\Debug\linq_Take_first10.exe
+C:\git_repo\c#-Basic-Experiments\linq\linq_Take_first10\bin\Debug\linq_Take_first10.pdb
+C:\git_repo\c#-Basic-Experiments\linq\linq_Take_first10\obj\Debug\linq_Take_first10.csprojResolveAssemblyReference.cache
+C:\git_repo\c#-Basic-Experiments\linq\linq_Take_first10\obj\Debug\linq_Take_first10.exe
+C:\git_repo\c#-Basic-Experiments\linq\linq_Take_first10\obj\Debug\linq_Take_first10.pdb

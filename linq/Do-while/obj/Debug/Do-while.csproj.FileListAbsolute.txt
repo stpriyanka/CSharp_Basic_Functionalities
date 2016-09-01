@@ -1,0 +1,6 @@
+C:\git_repo\c#-Basic-Experiments\linq\Do-while\bin\Debug\Do-while.exe.config
+C:\git_repo\c#-Basic-Experiments\linq\Do-while\bin\Debug\Do-while.exe
+C:\git_repo\c#-Basic-Experiments\linq\Do-while\bin\Debug\Do-while.pdb
+C:\git_repo\c#-Basic-Experiments\linq\Do-while\obj\Debug\Do-while.csprojResolveAssemblyReference.cache
+C:\git_repo\c#-Basic-Experiments\linq\Do-while\obj\Debug\Do-while.exe
+C:\git_repo\c#-Basic-Experiments\linq\Do-while\obj\Debug\Do-while.pdb

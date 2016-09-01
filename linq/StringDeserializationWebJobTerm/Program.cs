@@ -26,4 +26,6 @@ namespace StringDeserializationWebJobTerm
 		public Guid JobId { get; set; }
 		public string OrgIdFromClient { get; set; }
 	}
+
+
 }

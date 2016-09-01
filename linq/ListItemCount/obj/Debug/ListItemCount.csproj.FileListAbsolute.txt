@@ -1,0 +1,6 @@
+C:\git_repo\c#-Basic-Experiments\linq\ListItemCount\bin\Debug\ListItemCount.exe.config
+C:\git_repo\c#-Basic-Experiments\linq\ListItemCount\bin\Debug\ListItemCount.exe
+C:\git_repo\c#-Basic-Experiments\linq\ListItemCount\bin\Debug\ListItemCount.pdb
+C:\git_repo\c#-Basic-Experiments\linq\ListItemCount\obj\Debug\ListItemCount.csprojResolveAssemblyReference.cache
+C:\git_repo\c#-Basic-Experiments\linq\ListItemCount\obj\Debug\ListItemCount.exe
+C:\git_repo\c#-Basic-Experiments\linq\ListItemCount\obj\Debug\ListItemCount.pdb

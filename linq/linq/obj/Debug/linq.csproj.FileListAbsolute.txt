@@ -5,3 +5,9 @@ c:\users\worldfavor2\documents\visual studio 2013\Projects\linq\linq\obj\Debug\l
 c:\users\worldfavor2\documents\visual studio 2013\Projects\linq\linq\obj\Debug\linq.exe
 c:\users\worldfavor2\documents\visual studio 2013\Projects\linq\linq\obj\Debug\linq.pdb
 C:\github\CSharpe-basic-experiments\linq\linq\bin\Debug\linq.exe.config
+C:\git_repo\c#-Basic-Experiments\linq\linq\bin\Debug\linq.exe.config
+C:\git_repo\c#-Basic-Experiments\linq\linq\bin\Debug\linq.exe
+C:\git_repo\c#-Basic-Experiments\linq\linq\bin\Debug\linq.pdb
+C:\git_repo\c#-Basic-Experiments\linq\linq\obj\Debug\linq.csprojResolveAssemblyReference.cache
+C:\git_repo\c#-Basic-Experiments\linq\linq\obj\Debug\linq.exe
+C:\git_repo\c#-Basic-Experiments\linq\linq\obj\Debug\linq.pdb

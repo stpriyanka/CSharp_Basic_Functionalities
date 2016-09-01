@@ -1,0 +1,6 @@
+C:\git_repo\c#-Basic-Experiments\linq\Linq_DistinctWithCondition\bin\Debug\Linq_DistinctWithCondition.exe.config
+C:\git_repo\c#-Basic-Experiments\linq\Linq_DistinctWithCondition\obj\Debug\Linq_DistinctWithCondition.exe
+C:\git_repo\c#-Basic-Experiments\linq\Linq_DistinctWithCondition\obj\Debug\Linq_DistinctWithCondition.pdb
+C:\git_repo\c#-Basic-Experiments\linq\Linq_DistinctWithCondition\bin\Debug\Linq_DistinctWithCondition.exe
+C:\git_repo\c#-Basic-Experiments\linq\Linq_DistinctWithCondition\bin\Debug\Linq_DistinctWithCondition.pdb
+C:\git_repo\c#-Basic-Experiments\linq\Linq_DistinctWithCondition\obj\Debug\Linq_DistinctWithCondition.csprojResolveAssemblyReference.cache

@@ -6,3 +6,11 @@ C:\github\CSharpe-basic-experiments\linq\StringDeserializationWebJobTerm\bin\Deb
 C:\github\CSharpe-basic-experiments\linq\StringDeserializationWebJobTerm\obj\Debug\StringDeserializationWebJobTerm.csprojResolveAssemblyReference.cache
 C:\github\CSharpe-basic-experiments\linq\StringDeserializationWebJobTerm\obj\Debug\StringDeserializationWebJobTerm.exe
 C:\github\CSharpe-basic-experiments\linq\StringDeserializationWebJobTerm\obj\Debug\StringDeserializationWebJobTerm.pdb
+C:\git_repo\c#-Basic-Experiments\linq\StringDeserializationWebJobTerm\bin\Debug\StringDeserializationWebJobTerm.exe.config
+C:\git_repo\c#-Basic-Experiments\linq\StringDeserializationWebJobTerm\obj\Debug\StringDeserializationWebJobTerm.csprojResolveAssemblyReference.cache
+C:\git_repo\c#-Basic-Experiments\linq\StringDeserializationWebJobTerm\bin\Debug\StringDeserializationWebJobTerm.exe
+C:\git_repo\c#-Basic-Experiments\linq\StringDeserializationWebJobTerm\bin\Debug\StringDeserializationWebJobTerm.pdb
+C:\git_repo\c#-Basic-Experiments\linq\StringDeserializationWebJobTerm\bin\Debug\Newtonsoft.Json.dll
+C:\git_repo\c#-Basic-Experiments\linq\StringDeserializationWebJobTerm\bin\Debug\Newtonsoft.Json.xml
+C:\git_repo\c#-Basic-Experiments\linq\StringDeserializationWebJobTerm\obj\Debug\StringDeserializationWebJobTerm.exe
+C:\git_repo\c#-Basic-Experiments\linq\StringDeserializationWebJobTerm\obj\Debug\StringDeserializationWebJobTerm.pdb

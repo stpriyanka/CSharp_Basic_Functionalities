@@ -1,0 +1,6 @@
+C:\git_repo\c#-Basic-Experiments\linq\ArrayAndSubArray\bin\Debug\ArrayAndSubArray.exe.config
+C:\git_repo\c#-Basic-Experiments\linq\ArrayAndSubArray\bin\Debug\ArrayAndSubArray.exe
+C:\git_repo\c#-Basic-Experiments\linq\ArrayAndSubArray\bin\Debug\ArrayAndSubArray.pdb
+C:\git_repo\c#-Basic-Experiments\linq\ArrayAndSubArray\obj\Debug\ArrayAndSubArray.csprojResolveAssemblyReference.cache
+C:\git_repo\c#-Basic-Experiments\linq\ArrayAndSubArray\obj\Debug\ArrayAndSubArray.exe
+C:\git_repo\c#-Basic-Experiments\linq\ArrayAndSubArray\obj\Debug\ArrayAndSubArray.pdb

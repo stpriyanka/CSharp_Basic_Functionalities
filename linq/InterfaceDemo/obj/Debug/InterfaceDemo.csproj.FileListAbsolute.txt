@@ -1,0 +1,6 @@
+C:\git_repo\c#-Basic-Experiments\linq\InterfaceDemo\bin\Debug\InterfaceDemo.exe.config
+C:\git_repo\c#-Basic-Experiments\linq\InterfaceDemo\bin\Debug\InterfaceDemo.exe
+C:\git_repo\c#-Basic-Experiments\linq\InterfaceDemo\bin\Debug\InterfaceDemo.pdb
+C:\git_repo\c#-Basic-Experiments\linq\InterfaceDemo\obj\Debug\InterfaceDemo.csprojResolveAssemblyReference.cache
+C:\git_repo\c#-Basic-Experiments\linq\InterfaceDemo\obj\Debug\InterfaceDemo.exe
+C:\git_repo\c#-Basic-Experiments\linq\InterfaceDemo\obj\Debug\InterfaceDemo.pdb
