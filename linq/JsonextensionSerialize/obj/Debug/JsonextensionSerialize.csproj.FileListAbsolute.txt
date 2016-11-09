@@ -1,0 +1,8 @@
+C:\git_repo\c#-Basic-Experiments\linq\JsonextensionSerialize\bin\Debug\JsonextensionSerialize.exe.config
+C:\git_repo\c#-Basic-Experiments\linq\JsonextensionSerialize\bin\Debug\JsonextensionSerialize.exe
+C:\git_repo\c#-Basic-Experiments\linq\JsonextensionSerialize\bin\Debug\JsonextensionSerialize.pdb
+C:\git_repo\c#-Basic-Experiments\linq\JsonextensionSerialize\bin\Debug\Newtonsoft.Json.dll
+C:\git_repo\c#-Basic-Experiments\linq\JsonextensionSerialize\bin\Debug\Newtonsoft.Json.xml
+C:\git_repo\c#-Basic-Experiments\linq\JsonextensionSerialize\obj\Debug\JsonextensionSerialize.csprojResolveAssemblyReference.cache
+C:\git_repo\c#-Basic-Experiments\linq\JsonextensionSerialize\obj\Debug\JsonextensionSerialize.exe
+C:\git_repo\c#-Basic-Experiments\linq\JsonextensionSerialize\obj\Debug\JsonextensionSerialize.pdb

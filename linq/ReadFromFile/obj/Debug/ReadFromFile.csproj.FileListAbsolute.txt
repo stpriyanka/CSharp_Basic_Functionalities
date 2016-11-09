@@ -1,0 +1,6 @@
+C:\git_repo\c#-Basic-Experiments\linq\ReadFromFile\bin\Debug\ReadFromFile.exe.config
+C:\git_repo\c#-Basic-Experiments\linq\ReadFromFile\bin\Debug\ReadFromFile.exe
+C:\git_repo\c#-Basic-Experiments\linq\ReadFromFile\bin\Debug\ReadFromFile.pdb
+C:\git_repo\c#-Basic-Experiments\linq\ReadFromFile\obj\Debug\ReadFromFile.csprojResolveAssemblyReference.cache
+C:\git_repo\c#-Basic-Experiments\linq\ReadFromFile\obj\Debug\ReadFromFile.exe
+C:\git_repo\c#-Basic-Experiments\linq\ReadFromFile\obj\Debug\ReadFromFile.pdb

@@ -1,0 +1,12 @@
+C:\git_repo\c#-Basic-Experiments\linq\Web-Api-Metadata\bin\Debug\Web-Api-Metadata.exe.config
+C:\git_repo\c#-Basic-Experiments\linq\Web-Api-Metadata\bin\Debug\Web-Api-Metadata.exe
+C:\git_repo\c#-Basic-Experiments\linq\Web-Api-Metadata\bin\Debug\Web-Api-Metadata.pdb
+C:\git_repo\c#-Basic-Experiments\linq\Web-Api-Metadata\bin\Debug\Newtonsoft.Json.dll
+C:\git_repo\c#-Basic-Experiments\linq\Web-Api-Metadata\bin\Debug\System.Net.Http.Formatting.dll
+C:\git_repo\c#-Basic-Experiments\linq\Web-Api-Metadata\bin\Debug\System.Web.Http.dll
+C:\git_repo\c#-Basic-Experiments\linq\Web-Api-Metadata\bin\Debug\Newtonsoft.Json.xml
+C:\git_repo\c#-Basic-Experiments\linq\Web-Api-Metadata\bin\Debug\System.Net.Http.Formatting.xml
+C:\git_repo\c#-Basic-Experiments\linq\Web-Api-Metadata\bin\Debug\System.Web.Http.xml
+C:\git_repo\c#-Basic-Experiments\linq\Web-Api-Metadata\obj\Debug\Web-Api-Metadata.csprojResolveAssemblyReference.cache
+C:\git_repo\c#-Basic-Experiments\linq\Web-Api-Metadata\obj\Debug\Web-Api-Metadata.exe
+C:\git_repo\c#-Basic-Experiments\linq\Web-Api-Metadata\obj\Debug\Web-Api-Metadata.pdb

@@ -1,0 +1,1 @@
+C:\git_repo\c#-Basic-Experiments\linq\Singleton\bin\Debug\Singleton.exe.config

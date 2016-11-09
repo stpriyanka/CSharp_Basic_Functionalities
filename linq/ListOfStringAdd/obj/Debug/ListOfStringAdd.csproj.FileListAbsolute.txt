@@ -1,0 +1,6 @@
+C:\git_repo\c#-Basic-Experiments\linq\ListOfStringAdd\bin\Debug\ListOfStringAdd.exe.config
+C:\git_repo\c#-Basic-Experiments\linq\ListOfStringAdd\bin\Debug\ListOfStringAdd.exe
+C:\git_repo\c#-Basic-Experiments\linq\ListOfStringAdd\bin\Debug\ListOfStringAdd.pdb
+C:\git_repo\c#-Basic-Experiments\linq\ListOfStringAdd\obj\Debug\ListOfStringAdd.csprojResolveAssemblyReference.cache
+C:\git_repo\c#-Basic-Experiments\linq\ListOfStringAdd\obj\Debug\ListOfStringAdd.exe
+C:\git_repo\c#-Basic-Experiments\linq\ListOfStringAdd\obj\Debug\ListOfStringAdd.pdb

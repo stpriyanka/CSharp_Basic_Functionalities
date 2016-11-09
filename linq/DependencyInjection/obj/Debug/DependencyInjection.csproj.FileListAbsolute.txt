@@ -1,0 +1,6 @@
+C:\git_repo\c#-Basic-Experiments\linq\DependencyInjection\bin\Debug\DependencyInjection.exe.config
+C:\git_repo\c#-Basic-Experiments\linq\DependencyInjection\bin\Debug\DependencyInjection.exe
+C:\git_repo\c#-Basic-Experiments\linq\DependencyInjection\bin\Debug\DependencyInjection.pdb
+C:\git_repo\c#-Basic-Experiments\linq\DependencyInjection\obj\Debug\DependencyInjection.csprojResolveAssemblyReference.cache
+C:\git_repo\c#-Basic-Experiments\linq\DependencyInjection\obj\Debug\DependencyInjection.exe
+C:\git_repo\c#-Basic-Experiments\linq\DependencyInjection\obj\Debug\DependencyInjection.pdb
