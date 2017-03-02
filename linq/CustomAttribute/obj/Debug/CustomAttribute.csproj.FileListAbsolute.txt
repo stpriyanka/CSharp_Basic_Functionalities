@@ -1,0 +1,6 @@
+C:\git_repo\c#-Basic-Experiments\linq\CustomAttribute\bin\Debug\CustomAttribute.exe.config
+C:\git_repo\c#-Basic-Experiments\linq\CustomAttribute\bin\Debug\CustomAttribute.exe
+C:\git_repo\c#-Basic-Experiments\linq\CustomAttribute\bin\Debug\CustomAttribute.pdb
+C:\git_repo\c#-Basic-Experiments\linq\CustomAttribute\obj\Debug\CustomAttribute.csprojResolveAssemblyReference.cache
+C:\git_repo\c#-Basic-Experiments\linq\CustomAttribute\obj\Debug\CustomAttribute.exe
+C:\git_repo\c#-Basic-Experiments\linq\CustomAttribute\obj\Debug\CustomAttribute.pdb
